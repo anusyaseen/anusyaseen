@@ -1,7 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Anus Yaseen</h1>
 <h3 align="center">A passionate Software Engineer from pakistan</h3>
 
-<img align="right" alt="coding" width="src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img align="right" alt="coding" width="src="![image](https://github.com/user-attachments/assets/479e2c2c-19c1-48ee-862b-7d365e5f940d)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anusyaseen&label=Profile%20views&color=0e75b6&style=flat" alt="anusyaseen" /> </p>
 
