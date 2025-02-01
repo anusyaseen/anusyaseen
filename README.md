@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Anus Yaseen</h1>
 <h3 align="center">A passionate Software Engineer from pakistan</h3>
 
-<img align="right" alt="coding" width="src="![image](https://github.com/user-attachments/assets/479e2c2c-19c1-48ee-862b-7d365e5f940d)
+<img align="right" alt="coding" width="src="![image](https://github.com/user-attachments/assets/ccecd17e-f7e7-448a-ad69-cbb76ab0a456)
+
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anusyaseen&label=Profile%20views&color=0e75b6&style=flat" alt="anusyaseen" /> </p>
