@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Anus Yaseen</h1>
 <h3 align="center">A passionate Software Engineer from pakistan</h3>
 
-<img align="right" alt="coding" width="src="![image](https://github.com/user-attachments/assets/ccecd17e-f7e7-448a-ad69-cbb76ab0a456)
+<img align="right" alt="coding" width="src="![Uploading image.png…]()
+
 
 ">
 
